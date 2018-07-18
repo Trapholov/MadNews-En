@@ -1,0 +1,62 @@
+.homepage-hero-module-filter {
+    position: absolute;
+    background: rgba(180,180,180,.4);
+    z-index: 40;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 30;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    min-height: 100vh;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
