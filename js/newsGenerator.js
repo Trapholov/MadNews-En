@@ -136,7 +136,7 @@ var sets = {
   'NEIGHBOR': ['neighbor', 'passerby', 'two passersby', 'two female students', 'congressman', 'dog', 'goat',
     'cow', 'cat', 'goose', 'two peacocks'],
 
-  'DRUNK': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'drunk', 'old'],
+  'DRUNK': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'drunk'],
 
   'KILLED': ['killed', 'injured', 'executed', 'humiliated', 'shot', 'strangled', 'drowned', 'stabbed', 'outraged'],
   'LOSS': ['his penis', 'all his documents', 'all the money', 'his hand', 'his mind'],
