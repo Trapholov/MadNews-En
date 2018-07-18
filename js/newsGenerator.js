@@ -135,18 +135,14 @@ var sets = {
   'PET': ['a dog', 'a cat', 'a pheasant', 'a calf', 'invalid'],
   'NEIGHBOR': ['neighbor', 'passerby', 'two passersby', 'two female students', 'congressman', 'dog', 'goat',
     'cow', 'cat', 'goose', 'two peacocks'],
-
   'DRUNK': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'drunk'],
-
   'KILLED': ['killed', 'injured', 'executed', 'humiliated', 'shot', 'strangled', 'drowned', 'stabbed', 'outraged'],
   'LOSS': ['his penis', 'all his documents', 'all the money', 'his hand', 'his mind'],
   'BLEW_UP': ['blew up', 'set on fire', 'shot'],
   'KILL': ['scare', 'kill'],
   'RETURN_M': ['female partner', 'wife', 'girlfriend', 'honor of the family'],
   'RETURN_F': ['husband', 'addict child from the clinic', 'honor of the family'],
-
   'ACCIDENTALLY': ['accidentally', '', '', '', ''],
-
   'TWO': ['two', 'three', 'four'],
 };
 
