@@ -61,7 +61,6 @@ var sets = {
   'CITIZEN': ['NYC citizen', 'LA citizen', 'Mexican', 'German', 'San-Jose citizen'],
   'CITIZENS': ['NYC citizens'],
   'OLDMAN': [
-
     'businessman',
     'WW2 veteran',
     'iraq veteran',
